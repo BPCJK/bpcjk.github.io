@@ -8,7 +8,7 @@ profile:
   align: right
   image: Jag_Nov2021.png
   address: >
-    <p>Graduate Student</p>
+    <p>Ph.D. Candidate</p>
     <p>Mechanical Engineering</p>
     <p>Caltech</p>
 
