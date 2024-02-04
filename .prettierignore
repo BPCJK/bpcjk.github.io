@@ -3,3 +3,5 @@
 assets/css/main.scss
 assets/plotly/demo.html
 lighthouse_results/**
+assets/js/distillpub/template.v2.js
+_config.yml
