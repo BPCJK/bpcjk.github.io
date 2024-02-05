@@ -4,7 +4,7 @@ permalink: /gallery/
 title: gallery
 description: images from some of my research and non-research explorations
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ### research
