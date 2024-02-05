@@ -78,3 +78,7 @@ spring 2019; instructor: Prof. Chiara Daraio
 **Right**: Concept of shear center and demonstration of bending induced shear flow in beams.
 
 ---
+
+> If you can't explain something in simple terms, you don't understand it. - Richard Feynman
+
+---
