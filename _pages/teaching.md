@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I firmly believe that teaching is a powerful tool for deepening one's own understanding of concepts. During my time at Caltech, I had the privilege of attending lectures delivered by exceptional instructors. Drawing from their teaching methodologies, I have strived to integrate their valuable insights into the classes where I serve as a teaching assistant.
+I firmly believe that teaching is a powerful tool for deepening one's comprehension of concepts. During my time at Caltech, I had the privilege of attending lectures delivered by exceptional instructors. Drawing from their teaching methodologies, I have strived to integrate their valuable insights into the classes where I served as a teaching assistant.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
