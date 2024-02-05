@@ -15,6 +15,8 @@ I firmly believe that teaching is a powerful tool for deepening one's comprehens
     </div>
 </div>
 
+---
+
 #### Ae/APh 104c experimental methods
 
 spring 2022; instructor: Prof. Beverley McKeon <br />
@@ -24,6 +26,8 @@ spring 2022; instructor: Prof. Beverley McKeon <br />
 **role:** responsible for training a group of graduate students on the utilization of digital image
 correlation (DIC) for the analysis of deformation in disordered metamaterials.
 
+---
+
 #### Ae/AM/CE/ME 102b mechanics of structures and solids
 
 winter 2020; instructor: Prof. Ares Rosakis <br />
@@ -31,6 +35,8 @@ winter 2020; instructor: Prof. Ares Rosakis <br />
 **course contents:** review of continuum mechanics, simple maerials without memory, hyperelastic materials, linearization, properties of $$C$$ tensor, elastodynamics, 3d elastic problems of spherical symmetry, plane strain and plane stress, airy's stress functions, linear elastic fracture mechanics.
 
 **role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
+
+---
 
 #### ME 12c: mechanics (rigid body dynamics)
 
@@ -48,6 +54,8 @@ spring 2020; instructor: Prof. Domniki Asimaki
         {% include figure.liquid path="assets/img/me12c_pic2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+---
 
 #### ME 12c: mechanics (mechanics of materials)
 
