@@ -38,32 +38,3 @@ spring 2020; instructor: Prof. Domniki Asimaki
 **course Contents:** kinematics of particles, kinetics of particles, kinetics of system of particles, plane kinematics of rigid bodies, plane kineics of rigid bodies, three-dimensional dynamics of rigid bodies, vibrations (single d.o.f and rigid bodies), introduction to fluid mechanics
 
 **role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
-
-<!-- <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/me12c_pic1.png class: "img-fluid rounded z-depth-1"  zoomable: true  %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/me12c_pic2.png class: "img-fluid rounded z-depth-1"  zoomable: true  %}
-    </div>
-</div>
-
-#### ME 12c: mechanics (mechanics of materials)
-
-spring 2019; instructor: Prof. Chiara Daraio
-
-**course Contents:** equilibrium of force systems, principle of virtual work, distributed force systems, friction, static analysis of deformable structures.
-
-**role:** supported the instructor (not as a TA) by creating a variety of in-class demonstration samples such as tabletop photoelasticity.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/photoelasticity.png class: "img-fluid rounded z-depth-1"  zoomable: true  %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/shearflow.png class: "img-fluid rounded z-depth-1"  zoomable: true %}
-    </div>
-</div>
-
-**Left**: Tabletop photoelasticity setup using polaroid sheets. <br />
-**Right**: Concept of shear center and demonstration of bending induced shear flow in beams. --> -->
