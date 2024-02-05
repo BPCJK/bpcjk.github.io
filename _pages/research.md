@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 I firmly believe that teaching is a powerful tool for deepening one's own understanding of concepts. During my time at Caltech, I had the privilege of attending lectures delivered by exceptional instructors. Drawing from their teaching methodologies, I have strived to integrate their valuable insights into the classes where I serve as a teaching assistant.
