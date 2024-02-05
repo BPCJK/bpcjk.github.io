@@ -45,7 +45,7 @@ spring 2020; instructor: Prof. Domniki Asimaki
         {% include figure.liquid path="assets/img/me12c_pic1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/me12c_picw.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/me12c_pic2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
