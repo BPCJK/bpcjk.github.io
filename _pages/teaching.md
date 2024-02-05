@@ -76,3 +76,5 @@ spring 2019; instructor: Prof. Chiara Daraio
 
 **Left**: Tabletop photoelasticity setup using polaroid sheets. <br />
 **Right**: Concept of shear center and demonstration of bending induced shear flow in beams.
+
+---
