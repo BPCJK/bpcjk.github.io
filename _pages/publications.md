@@ -5,7 +5,7 @@ title: publications
 description: <a>*</a> denotes equal contribution.
 years: [2023, 2022, 2020]
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
