@@ -40,14 +40,14 @@ spring 2020; instructor: Prof. Domniki Asimaki
 
 **role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/me12c_pic1.png class: "img-fluid rounded z-depth-1"  zoomable: true  %}
-    </div>  
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/me12c_pic2.png class: "img-fluid rounded z-depth-1"  zoomable: true  %}
-    </div>  
-</div>
+    </div>
+</div> -->
 
 #### ME 12c: mechanics (mechanics of materials)
 
@@ -57,14 +57,14 @@ spring 2019; instructor: Prof. Chiara Daraio
 
 **role:** supported the instructor (not as a TA) by creating a variety of in-class demonstration samples such as tabletop photoelasticity.
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/photoelasticity.png class: "img-fluid rounded z-depth-1"  zoomable: true  %}
-    </div>   
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/shearflow.png class: "img-fluid rounded z-depth-1"  zoomable: true %}
     </div>
-</div>
+</div> -->
 
 **Left**: Tabletop photoelasticity setup using polaroid sheets. <br />
 **Right**: Concept of shear center and demonstration of bending induced shear flow in beams.
