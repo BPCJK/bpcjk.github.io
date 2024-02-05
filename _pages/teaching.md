@@ -31,10 +31,6 @@ winter 2020; instructor: Prof. Ares Rosakis <br />
         {% include figure.liquid path="assets/img/blackboard_research2.jpg" class: "img-fluid rounded z-depth-1" zoomable: true %}
     </div>
 
-    <!-- <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>  -->
-
 </div>
  
 <!-- #### ME 12c: mechanics (rigid body dynamics)
