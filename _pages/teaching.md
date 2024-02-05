@@ -26,13 +26,14 @@ winter 2020; instructor: Prof. Ares Rosakis <br />
 
 **role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
 
-<div class="row mt-3">
+<!-- <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% responsive_image path: assets/img/blackboard_research2.jpg class: "img-fluid rounded z-depth-1"  zoomable: true  %}
-    </div>   
-</div>
- 
+    </div>
+</div> -->
+
 #### ME 12c: mechanics (rigid body dynamics)
+
 spring 2020; instructor: Prof. Domniki Asimaki
 
 **course Contents:** kinematics of particles, kinetics of particles, kinetics of system of particles, plane kinematics of rigid bodies, plane kineics of rigid bodies, three-dimensional dynamics of rigid bodies, vibrations (single d.o.f and rigid bodies), introduction to fluid mechanics
