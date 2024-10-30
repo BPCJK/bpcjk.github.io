@@ -52,3 +52,7 @@ I am currently working on design of architected anisotropic solids and finding d
 </div>
 
 ---
+
+> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. - Richard Feynman
+
+---
