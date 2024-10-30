@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Jagannadh Boddapati. I am currently working as a Module Development Engineer fat [Intel](https://www.intel.com/content/www/us/en/homepage.html) Mask Operations in Santa Clara.
+I am Jagannadh Boddapati. I am currently working as a Module Development Engineer at [Intel](https://www.intel.com/content/www/us/en/homepage.html) Mask Operations in Santa Clara, CA.
 
 I recently (Aug 2024) finished my Ph.D. in [Mechanical Engineering](https://mce.caltech.edu/) at [Caltech](https://www.caltech.edu/), accompanied by a minor in [Computer Science](https://www.cms.caltech.edu/).
 My [thesis](doi:10.7907/k1t8-4t34) was focused on shear-normal coupled deformations in anisotropic structured materials under the supervision of [Prof. Chiara Daraio](http://www.daraio.caltech.edu/).
