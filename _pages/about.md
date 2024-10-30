@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 I am Jagannadh Boddapati. I am currently working as a Module Development Engineer fat [Intel](https://www.intel.com/content/www/us/en/homepage.html) Mask Operations in Santa Clara.
 
 I recently (Aug 2024) finished my Ph.D. in [Mechanical Engineering](https://mce.caltech.edu/) at [Caltech](https://www.caltech.edu/), accompanied by a minor in [Computer Science](https://www.cms.caltech.edu/).
-My thesis was focused on the data-driven discovery of structure-property relations in anisotropic metamaterials under the supervision of [Prof. Chiara Daraio](http://www.daraio.caltech.edu/).
+My [thesis](doi:10.7907/k1t8-4t34) was focused on shear-normal coupled deformations in anisotropic structured materials under the supervision of [Prof. Chiara Daraio](http://www.daraio.caltech.edu/).
 Prior to joining Caltech, I earned my Bachelor's with Honors in Mechanical Engineering with a minor in Microelectronics from the Indian Institute of Technology Madras in 2018.
 My undergraduate research focused on shape-morphing piezo composites, conducted under the guidance of Prof. Ratna Kumar Annabattula.
 
