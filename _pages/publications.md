@@ -14,8 +14,6 @@ nav_order: 3
     </div>
 </div>
 
----
-
 <!-- _pages/publications.md -->
 
 <div class="publications">

@@ -54,6 +54,6 @@ Such capabilities are crucial for applications in shape-morphing, impact redirec
 
 ---
 
-> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. - Richard Feynman
+> "To succeed in your mission, you must have single-minded devotion to your goal." - APJ Abdul Kalam
 
 ---
