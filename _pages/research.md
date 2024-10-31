@@ -41,7 +41,7 @@ Such capabilities are crucial for applications in shape-morphing, impact redirec
     </div>
 </div>
 <div class="caption">
-    Evaluation of directional elastic properties of structured materials.
+    Evaluation of directional elastic properties of structured materials using a one-test approach.
 </div>
 ---
 
@@ -51,7 +51,7 @@ Such capabilities are crucial for applications in shape-morphing, impact redirec
     </div>
 </div>
 <div class="caption">
-    Mechanical-cloaks.
+    Mechanical-cloaks: Using structured materials to tune local mechanical properties, and conceal objects from external forces and deformations.
 </div>
 
 ---
@@ -62,7 +62,7 @@ Such capabilities are crucial for applications in shape-morphing, impact redirec
     </div>
 </div>
 <div class="caption">
-    Shape-morphing in piezocomposites.
+    Anisotropy driven helical shape-morphing in piezocomposites.
 </div>
 
 ---
