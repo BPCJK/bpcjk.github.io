@@ -15,7 +15,7 @@ nav_order: 2
 
 ---
 
-#### Current work
+#### Summary
 
 Welcome to my research page! My work focuses on developing and experimentally characterizing anisotropic metamaterials.
 Metamaterials derive their special properties from the distinctive deformation, dynamic motion, and elastic energy distribution of their micro- and meso-architectures.
@@ -30,7 +30,7 @@ Such capabilities are crucial for applications in shape-morphing, impact redirec
     </div>
 </div>
 <div class="caption">
-    Evaluation of directional elastic properties of structured materials.
+    Atypical mechanical behavior: Rotation-like deformation under tensions.
 </div>
 
 ---
