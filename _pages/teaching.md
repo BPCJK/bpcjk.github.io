@@ -17,7 +17,7 @@ I firmly believe that teaching is a powerful tool for deepening one's comprehens
 
 ---
 
-#### Ae/APh 104c Experimental methods
+#### Ae/APh 104c: Experimental methods
 
 Spring 2022; Instructor: Prof. Beverley McKeon <br />
 
@@ -28,7 +28,7 @@ correlation (DIC) for the analysis of deformation in disordered metamaterials.
 
 ---
 
-#### Ae/AM/CE/ME 102b Mechanics of structures and solids
+#### Ae/AM/CE/ME 102b: Mechanics of structures and solids
 
 Winter 2020; Instructor: Prof. Ares Rosakis <br />
 
