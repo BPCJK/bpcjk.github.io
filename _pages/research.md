@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-`This page is under construction. stay tuned for more details`
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/blackboard_research2.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -19,7 +17,10 @@ nav_order: 2
 
 #### current work
 
-I am currently working on design of architected anisotropic solids and finding design rules for specific material functionalities under linear elasticity. My work is at the intersection of _experimental techniques_ like digital image correlation, tomography, virtual fields methods, 3D printing: _numerical techniques_ like geometry representation, finite elements and data-driven techniques and _theoretical techniques_ like symmetry related point groups.
+Welcome to my research page! My work focuses on developing and experimentally characterizing anisotropic metamaterials.
+Metamaterials derive their special properties from the distinctive deformation, dynamic motion, and elastic energy distribution of their micro- and meso-architectures.
+These architected materials can be designed to achieve extreme anisotropy, supporting functionalities like shear-axial coupling, which allows them to deform in unconventional ways.
+Such capabilities are crucial for applications in shape-morphing, impact redirection, and elastic wave manipulation, enabling innovative solutions in fields where directional properties and responsiveness are key.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
