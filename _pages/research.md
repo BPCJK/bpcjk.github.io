@@ -78,8 +78,6 @@ Such capabilities are crucial for applications in shape-morphing, impact redirec
 
 ---
 
----
-
 > "To succeed in your mission, you must have single-minded devotion to your goal." - APJ Abdul Kalam
 
 ---
