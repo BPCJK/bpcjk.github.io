@@ -17,34 +17,34 @@ I firmly believe that teaching is a powerful tool for deepening one's comprehens
 
 ---
 
-#### Ae/APh 104c experimental methods
+#### Ae/APh 104c Experimental methods
 
-spring 2022; instructor: Prof. Beverley McKeon <br />
+Spring 2022; Instructor: Prof. Beverley McKeon <br />
 
-**course Contents:** experiments in solid and fluid mechanics with emphasis on current research methods.
+**Course contents:** experiments in solid and fluid mechanics with emphasis on current research methods.
 
-**role:** responsible for training a group of graduate students on the utilization of digital image
+**Role:** responsible for training a group of graduate students on the utilization of digital image
 correlation (DIC) for the analysis of deformation in disordered metamaterials.
 
 ---
 
-#### Ae/AM/CE/ME 102b mechanics of structures and solids
+#### Ae/AM/CE/ME 102b Mechanics of structures and solids
 
-winter 2020; instructor: Prof. Ares Rosakis <br />
+Winter 2020; Instructor: Prof. Ares Rosakis <br />
 
 **course contents:** review of continuum mechanics, simple maerials without memory, hyperelastic materials, linearization, properties of $$C$$ tensor, elastodynamics, 3d elastic problems of spherical symmetry, plane strain and plane stress, airy's stress functions, linear elastic fracture mechanics.
 
-**role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
+**Role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
 
 ---
 
-#### ME 12c: mechanics (rigid body dynamics)
+#### ME 12c: Mechanics (Rigid body dynamics)
 
-spring 2020; instructor: Prof. Domniki Asimaki
+Spring 2020; Instructor: Prof. Domniki Asimaki
 
-**course Contents:** kinematics of particles, kinetics of particles, kinetics of system of particles, plane kinematics of rigid bodies, plane kineics of rigid bodies, three-dimensional dynamics of rigid bodies, vibrations (single d.o.f and rigid bodies), introduction to fluid mechanics
+**Course contents:** kinematics of particles, kinetics of particles, kinetics of system of particles, plane kinematics of rigid bodies, plane kineics of rigid bodies, three-dimensional dynamics of rigid bodies, vibrations (single d.o.f and rigid bodies), introduction to fluid mechanics
 
-**role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
+**Role:** in charge of developing & grading problem sets, conducting office hours, leading recitations, and organizing review sessions.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -57,13 +57,13 @@ spring 2020; instructor: Prof. Domniki Asimaki
 
 ---
 
-#### ME 12c: mechanics (mechanics of materials)
+#### ME 12c: Mechanics (Mechanics of materials)
 
-spring 2019; instructor: Prof. Chiara Daraio
+Spring 2019; Instructor: Prof. Chiara Daraio
 
-**course Contents:** equilibrium of force systems, principle of virtual work, distributed force systems, friction, static analysis of deformable structures.
+**Course contents:** equilibrium of force systems, principle of virtual work, distributed force systems, friction, static analysis of deformable structures.
 
-**role:** supported the instructor (not as a TA) by creating a variety of in-class demonstration samples such as tabletop photoelasticity.
+**Role:** supported the instructor (not as a TA) by creating a variety of in-class demonstration samples such as tabletop photoelasticity.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
@@ -79,6 +79,6 @@ spring 2019; instructor: Prof. Chiara Daraio
 
 ---
 
-> If you can't explain something in simple terms, you don't understand it. - Richard Feynman
+> "If you can't explain something in simple terms, you don't understand it." - Richard Feynman
 
 ---

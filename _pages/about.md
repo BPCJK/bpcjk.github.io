@@ -34,6 +34,6 @@ Check this [video](https://www.youtube.com/watch?v=LE0iLFzz0nA) for pronunciatio
 
 ---
 
-> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible. - Richard Feynman
+> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible." - Richard Feynman
 
 ---

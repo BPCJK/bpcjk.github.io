@@ -15,7 +15,7 @@ nav_order: 2
 
 ---
 
-#### current work
+#### Current work
 
 Welcome to my research page! My work focuses on developing and experimentally characterizing anisotropic metamaterials.
 Metamaterials derive their special properties from the distinctive deformation, dynamic motion, and elastic energy distribution of their micro- and meso-architectures.
