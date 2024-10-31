@@ -22,6 +22,19 @@ Metamaterials derive their special properties from the distinctive deformation, 
 These architected materials can be designed to achieve extreme anisotropy, supporting functionalities like shear-axial coupling, which allows them to deform in unconventional ways.
 Such capabilities are crucial for applications in shape-morphing, impact redirection, and elastic wave manipulation, enabling innovative solutions in fields where directional properties and responsiveness are key.
 
+---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/matDes_graphAbs.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Evaluation of directional elastic properties of structured materials.
+</div>
+
+---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/vfmPaper_GrapAbs.png" title="example image" class="img-fluid rounded z-depth-1" %}
