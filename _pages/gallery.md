@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /gallery/
-title: gallery
-description: images from some of my research and non-research explorations
+title: Gallery
+description: Pictures from some of my research and non-research explorations.
 nav: true
 nav_order: 5
 ---
 
-### research
+### Research
 
 ---
 
@@ -67,7 +67,7 @@ nav_order: 5
 
 ---
 
-### hobbies
+### Hobbies
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
