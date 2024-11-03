@@ -58,7 +58,7 @@ nav_order: 5
         {% include figure.liquid path="assets/img/photoelasticity.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/force_chain.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Shear_Banding_v2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
