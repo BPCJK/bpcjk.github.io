@@ -73,7 +73,7 @@ Such capabilities are crucial for applications in shape-morphing, impact redirec
     </div>
 </div>
 <div class="caption">
-    Future directions (from Microsoft copilot image generator).
+    Future directions (figures were generated using Microsoft copilot image generator).
 </div>
 
 ---

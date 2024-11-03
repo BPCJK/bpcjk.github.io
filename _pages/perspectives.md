@@ -24,9 +24,12 @@ Solid mechanics intertwines with areas like materials science, physics, geophysi
 Interplay of stress (force) and strain (deformation) is different between metals, polymers, granular systems.
 This leads to some magical phenomena such as phase transformations, instabilites.
 
-It very much surprise me everyday how concepts that are applicable at a laboratory scale could lead to very-long, very-heavy load bearing strucutres such as an aircraft, a bridge.
+It very much surprises me everyday how concepts that are applicable at a laboratory scale could lead to very-long, very-heavy load bearing strucutres such as an aircraft, a bridge.
 
-Another reason I am drawn to solid mechanics is its reliance on and contribution to applied mathematics. Solid mechanics often involves complex mathematical modeling and computational simulations. Differential equations, linear algebra, and calculus are routinely employed to solve problems in stress analysis, material deformation, and wave propagation. The algorithms, and all the computational power that goes with these simulations is very involved, especially while modeling complex biological organs such as cardiovascular systems.
+Another reason I am drawn to solid mechanics is its reliance on and contribution to applied mathematics.
+Solid mechanics often involves complex mathematical modeling and computational simulations.
+Differential equations, linear algebra, and calculus are routinely employed to solve problems in stress analysis, material deformation, and wave propagation.
+The algorithms, and all the computational power that goes with these simulations is very involved, especially while modeling complex biological organs such as cardiovascular systems.
 
 ---
 
