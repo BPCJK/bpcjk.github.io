@@ -1,8 +1,8 @@
 ---
 layout: post
 title: I enjoy studying solid mechanics because …
-date: 2015-10-20 11:12:00-0400
-description: an example of a blog post with some math
+date: 2024-11-04 11:12:00-0400
+description: A blog on passion towards solid mechanics
 tags: formatting math
 categories: sample-posts
 related_posts: false
