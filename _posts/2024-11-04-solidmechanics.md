@@ -16,5 +16,5 @@ Solid mechanics plays an important role in unraveling mechanisms across unseemin
 
 Another reason I am drawn to solid mechanics is its reliance on and contribution to applied mathematics. Solid mechanics often involves complex mathematical modeling and computational simulations. Differential equations, linear algebra, and calculus are routinely employed to solve problems in stress analysis, material deformation, and wave propagation. The algorithms, and all the computational power that goes with these simulations is very involved, especially while modeling complex biological organs such as cardiovascular systems.
 
-'Phenomena': Hydrogen Embrittlement, Dynamic Fracture, Buckling of large and thin aerospace structures, Wrinkling, Multistable structures, Shape-morphing structures, Wave propagation, Phase transformations (Plasticity), Mechanics of cells: Actins and Microtubules (Viscoelasticity), Shear-normal coupled structures.
-Materials studied: Metals: steel, aluminum, iron. Soft materials: rubber, .
+_Phenomena_: Hydrogen Embrittlement, Dynamic Fracture, Buckling of large and thin aerospace structures, Wrinkling, Multistable structures, Shape-morphing structures, Wave propagation, Phase transformations (Plasticity), Mechanics of cells: Actins and Microtubules (Viscoelasticity), Shear-normal coupled structures.
+_Materials_: Metals (steel, aluminum, iron, diamond etc.). Soft materials (rubber, polymers etc.).
