@@ -8,7 +8,9 @@ categories: sample-posts
 related_posts: false
 ---
 
-### In this blog, I want to discuss about Solid Mechanics and how it is interdisciplinary with several other fields ranging from linear algebra, optics.
+### In this blog,
+
+In this blog, I want to discuss about Solid Mechanics and how it is interdisciplinary with several other fields ranging from linear algebra, optics.
 
 ## What is Solid Mechanics?
 
