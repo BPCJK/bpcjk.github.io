@@ -2,7 +2,7 @@
 layout: post
 title: My passion towards solid mechanics…
 date: 2024-11-04 11:12:00-0400
-description: A blog on passion towards solid mechanics
+description: My journey with solid mechanics
 tags: formatting math
 categories: sample-posts
 related_posts: false

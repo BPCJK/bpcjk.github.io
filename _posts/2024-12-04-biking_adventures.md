@@ -2,7 +2,7 @@
 layout: post
 title: BIking adventures
 date: 2024-12-04 11:12:00-0400
-description: Biking adventures
+description: Things that led to several century (100km) rides
 tags: formatting math
 categories: sample-posts
 related_posts: false

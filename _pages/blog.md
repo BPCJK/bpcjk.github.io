@@ -29,7 +29,8 @@ pagination:
   </div>
   {% endif %}
 
-<!-- {% if site.display_tags or site.display_categories %}
+{% comment %}
+{% if site.display_tags or site.display_categories %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
@@ -54,7 +55,8 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %} -->
+  {% endif %}
+{% endcomment %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
@@ -147,6 +149,7 @@ pagination:
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
       </p>
+      {% comment %}
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
@@ -167,6 +170,7 @@ pagination:
               {% endfor %}
           {% endif %}
     </p>
+    {% endcomment %}
 
 {% if post.thumbnail %}
 
