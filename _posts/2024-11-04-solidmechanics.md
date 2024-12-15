@@ -29,7 +29,7 @@ Another reason I am drawn to solid mechanics is its reliance on and contribution
 
 ### Delving deep
 
-Explain atomic strucutre
+Explain atomic structure
 
 #### Phenomena
 
