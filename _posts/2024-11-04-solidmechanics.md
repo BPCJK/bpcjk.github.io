@@ -29,3 +29,9 @@ Another reason I am drawn to solid mechanics is its reliance on and contribution
 
 _Phenomena_: Hydrogen Embrittlement, Dynamic Fracture, Buckling of large and thin aerospace structures, Wrinkling, Multistable structures, Shape-morphing structures, Wave propagation, Phase transformations (Plasticity), Mechanics of cells: Actins and Microtubules (Viscoelasticity), Shear-normal coupled structures.
 _Materials_: Metals (steel, aluminum, iron, diamond etc.). Soft materials (rubber, polymers etc.).
+
+---
+
+> "I like to be buckled, tensed, stretched, wrinkled, dislocated, defected, tortured, bent, and broken. In the end, everything is solid mechanics"- Jagannadh
+
+---
