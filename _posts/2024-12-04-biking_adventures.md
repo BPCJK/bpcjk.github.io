@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My passion towards solid mechanics…
-date: 2024-11-04 11:12:00-0400
+title: BIking adventures
+date: 2024-12-04 11:12:00-0400
 description: Biking adventures
 tags: formatting math
 categories: sample-posts
