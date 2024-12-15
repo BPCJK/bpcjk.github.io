@@ -8,6 +8,15 @@ categories: sample-posts
 related_posts: false
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/blackboard_research2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+---
+
+`This page is under construction`
+
 ### In this blog,
 
 In this blog, I want to discuss about Solid Mechanics and how it is interdisciplinary with several other fields ranging from linear algebra, optics.
