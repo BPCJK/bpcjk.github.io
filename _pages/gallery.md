@@ -63,7 +63,7 @@ nav_order: 5
 </div>
 
 **Left**: Tabletop photoelasticity setup using polaroid sheet (for ME12C). <br />
-**Right**: Buckling of Force chains granular discs in granular discs with friction and slip (for ME 201).
+**Right**: Buckling of Force chains in granular discs with friction and slip (for ME 201).
 
 ---
 

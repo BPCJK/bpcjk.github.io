@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biking adventures in LA
-date: 2024-12-04 11:12:00-0400
+date: 2023-03-04 11:12:00-0400
 description: Things that led to several century (100km) rides
 tags:
 categories: hobbies
