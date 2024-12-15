@@ -145,15 +145,16 @@ pagination:
 
       </h3>
       <p>{{ post.description }}</p>
+      {% comment %}
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
-        {% comment %}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
         {% endif %}
-        {% comment %}
       </p>
+      {% endcomment %}
+
       {% comment %}
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
