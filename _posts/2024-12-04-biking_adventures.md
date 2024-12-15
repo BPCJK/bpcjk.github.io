@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BIking adventures
+title: Biking adventures in LA
 date: 2024-12-04 11:12:00-0400
 description: Things that led to several century (100km) rides
 tags: formatting math
@@ -8,19 +8,12 @@ categories: sample-posts
 related_posts: false
 ---
 
-In this blog, I want to discuss about Solid Mechanics and how it is interdisciplinary with several other fields ranging from linear algebra, optics.
+Biking is such an entertaining hobby. Biking gives the feels of flying downhill, catching sunsets, a sense of achievement, and a lot of endorphin rush from that sweat! "LA sucks for biking" is a popular statement among many bikers in Los Angeles. Although, it’s not surprising that notorious drivers from parts of the city are not considerate of bikers, you would be surprised to find some amazing and yet safe routes to explore by bike in a city where living without a car is almost impossible.
 
-## What is Solid Mechanics?
+LA is surprisingly huge and the weather is perfect almost any day of the year. Whether it's a sunset ride or a sunrise ride, or a snow ride, or a cookie ride, you have all of it here. You get the experience of riding through mountains, beaches, tunnels, rivers, lakes, dams, horse trails, golf courses, observatories, luxury homes, ferries, and whatnot, almost everything. If you are in for some great views, here are some popular bike rides in and around Los Angeles that you should check out.
 
-Solid mechanics plays an important role in unraveling mechanisms across unseemingly disconnected topics. Solid mechanics intertwines with areas like materials science, physics, geophysics, applied mathematics, and even biology. Interplay of stress (force) and strain (deformation) is different between metals, polymers, granular systems. This leads to some magical phenomena such as phase transformations, instabilities.
+### 1. Rio Hondo Bike Path
 
-## My first introduction to solid mechanics
+Rio Hondo bike path is a one-way 15-mile almost flat bike path starting from Monrovia and ending in Lynwood joining the LA River Bike path in El Monte. The bike path entails a water stream on one side, passes adjacently to San Gabriel Valley airport, golf courses, horseback riding trails, water conservation areas, and many little surprises. While you are riding from South to North, you shouldn't miss a spectacular view of aircrafts landing, flying, taking off, and missing into the gorgeous San Gabriel mountains.
 
-Another reason I am drawn to solid mechanics is its reliance on and contribution to applied mathematics.
-
-## Interdisciplinary
-
-Solid mechanics often involves complex mathematical modeling and computational simulations. Differential equations, linear algebra, and calculus are routinely employed to solve problems in stress analysis, material deformation, and wave propagation. The algorithms, and all the computational power that goes with these simulations is very involved, especially while modeling complex biological organs such as cardiovascular systems.
-
-_Phenomena_: Hydrogen Embrittlement, Dynamic Fracture, Buckling of large and thin aerospace structures, Wrinkling, Multistable structures, Shape-morphing structures, Wave propagation, Phase transformations (Plasticity), Mechanics of cells: Actins and Microtubules (Viscoelasticity), Shear-normal coupled structures.
-_Materials_: Metals (steel, aluminum, iron, diamond etc.). Soft materials (rubber, polymers etc.).
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a23f4f42-133b-4039-9adc-3b40de92f220/Untitled.png
