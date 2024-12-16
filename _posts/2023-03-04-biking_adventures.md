@@ -51,6 +51,47 @@ Known for its incredibly impressive hairpin bends, latigo canyon road is one of 
         {% include figure.liquid path="assets/img/biking_blog/pic04_LatigoCanyon.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+### 5. Palos Verdes Peninsula
+
+What about climbing mountains along the coast? Palos Verdes Peninsula offers you stunning views of the Pacific Ocean. The views change as you ride making you wonder if you are in the busy busy Los Angeles area and keep you mesmerizing. Popularly known as the donut loop among the strava users, with an easy to moderate climbing, the route takes you along different segments of Palos Verdes Peninsula. Dolphins might pay you a surprising visit if you are riding early in the morning. Traffic is pretty moderate in this section of the city.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/biking_blog/pic05_PalosVerdes.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### 6. Mt. Wilson Observatory
+
+If you are in for some climbing, take Angeles Crest Highway 2 from La Cañada Flintridge, preferably on a weekday to avoid traffic, ride up to Clear Creek, and then up to RedBox picnic area. Take a right turn at the Redbox picnic area to go all the way to the popular Mt. Wilson observatory. With a moderate steepness (~6%), you can catch snow along the sides of the road during January right after the rain (if it ever!), as well as the snow caps on Mt. Baldy. Make sure you have body warmers while coming down when there is snow.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/biking_blog/pic06_MtWilson.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### 7. Griffith Park
+
+Wanna see the Hollywood sign? Wanna see the downtown from the hollywood mountains? Want a quick climbing route amidst busy schedule? Check out bike trails in Griffith Park for some urban biking enthralling experiences. Have more time? Ride further up on the popular Mullholland drive nearby the park.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/biking_blog/pic07_Griffith.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+### 8. San Gabriel Mountains
+
+Further east of LA, San Gabriel Mountains are an abode for popular climbing routes like Glendora Mountain Road (GMR), Glendora Ridge Road (GRR), Cogswell Dam, Crystal Lake and Mt. Baldy. Start from the foothills in Azusa and bike along Highway 39. Riding until East Fork Road is an easy climb. On the right, you get to see Morris Reservoir and San Gabriel Reservoirs. The dams offer spectacular views most of the year. Just be watchful of the cars while you enjoy the views.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/biking_blog/pic08_SanGabsMtn.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ### Conclusion
 
 LA has rides perfect for all levels of bikers. No wonder why several professional bikers train in the greater Los Angeles area. Starting points for most of the roads are within driving distance and could be covered by metro if you are patient. Do check out local clubs that organize group rides. They are a great way to get to know your fellow riders, see the neighborhood from the eyes of locals and find out the little secret lookout spots. Google Street View is also a great source, don’t forget that!
