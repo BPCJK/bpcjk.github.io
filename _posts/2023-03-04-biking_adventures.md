@@ -8,6 +8,8 @@ categories: hobbies
 related_posts: false
 ---
 
+`This page is under construction. I will add my thoughts when I get time.`
+
 Biking is such an entertaining hobby. Biking gives the feels of flying downhill, catching sunsets, a sense of achievement, and a lot of endorphin rush from that sweat! "LA sucks for biking" is a popular statement among many bikers in Los Angeles. Although, it’s not surprising that notorious drivers from parts of the city are not considerate of bikers, you would be surprised to find some amazing and yet safe routes to explore by bike in a city where living without a car is almost impossible.
 
 LA is surprisingly huge and the weather is perfect almost any day of the year. Whether it's a sunset ride or a sunrise ride, or a snow ride, or a cookie ride, you have all of it here. You get the experience of riding through mountains, beaches, tunnels, rivers, lakes, dams, horse trails, golf courses, observatories, luxury homes, ferries, and whatnot, almost everything. If you are in for some great views, here are some popular bike rides in and around Los Angeles that you should check out.
@@ -44,7 +46,7 @@ What about a ride along the coast during sunset? This has to be the best part of
 
 ### 4. Latigo Canyon Road in Malibu
 
-Known for its incredibly impressive hairpin bends, latigo canyon road is one of the best climbing routes in and around Malibu. This route gives you the best of two worlds: views from the mountains and the pacific ocean. Start from the pacific coast highway (PCH) near Latigo beach and climb up until the popular Mullholland drive. On a clear day, you can even catch a glimpse of Catalina and San Clemente islands far from the coast. You can mix up your route to start and end at PCH, coming downhill along the Kanan Dume Road. Don’t be surprised if a vintage convertible passes by!
+Known for its incredibly impressive hairpin bends, latigo canyon road is one of the best climbing routes in and around Malibu. This route gives you the best of two worlds: views from the mountains and the pacific ocean. Start from the pacific coast highway (PCH) near Latigo beach and climb up until the popular Mulholland drive. On a clear day, you can even catch a glimpse of Catalina and San Clemente islands far from the coast. You can mix up your route to start and end at PCH, coming downhill along the Kanan Dume Road. Don’t be surprised if a vintage convertible passes by!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
