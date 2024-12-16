@@ -34,6 +34,7 @@ Explain atomic structure
 #### Phenomena
 
 _Phenomena_: Hydrogen Embrittlement, Dynamic Fracture, Buckling of large and thin aerospace structures, Wrinkling, Multistable structures, Shape-morphing structures, Wave propagation, Phase transformations (Plasticity), Mechanics of cells: Actins and Microtubules (Viscoelasticity), Shear-normal coupled structures.
+`Will include hand-drawn images.`
 
 #### Widely studied materials
 
