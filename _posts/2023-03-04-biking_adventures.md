@@ -16,7 +16,7 @@ LA is surprisingly huge and the weather is perfect almost any day of the year. W
 
 ### 1. Rio Hondo Bike Path
 
-Rio Hondo bike path is a one-way 15-mile almost flat bike path starting from Monrovia and ending in Lynwood joining the LA River Bike path in El Monte. The bike path entails a water stream on one side, passes adjacently to San Gabriel Valley airport, golf courses, horseback riding trails, water conservation areas, and many little surprises. While you are riding from South to North, you shouldn't miss a spectacular view of aircrafts landing, flying, taking off, and missing into the gorgeous San Gabriel mountains.
+Rio Hondo bike path is a one-way 15-mile almost flat bike path starting from Monrovia and ending in Lynwood joining the LA River Bike path in El Monte. The bike path entails a water stream on one side, passes adjacently to San Gabriel Valley airport, golf courses, horseback riding trails, water conservation areas, and many little surprises. While you are riding from South to North, you shouldn't miss a spectacular view of aircrafts landing, flying, taking off, and missing into the gorgeous ever San Gabriel mountains.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
