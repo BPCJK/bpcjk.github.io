@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Semiconductor industry experience
-date: 2024-11-04 11:12:00-0400
+date: 2025-08-17 11:12:00-0400
 description: Exposute to non-mechanics fields
 tags:
 categories: industry
